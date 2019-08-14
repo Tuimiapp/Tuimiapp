@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587467421017",
+    "firebase_url": "https://tuimiapp-bg.firebaseio.com",
+    "project_id": "tuimiapp-bg",
+    "storage_bucket": "tuimiapp-bg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587467421017:android:0e915e9e4b3eaa74",
+        "android_client_info": {
+          "package_name": "com.example.tuimiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587467421017-5j47hjdhegbtvo8el5njrrena1ptinse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZxJ6s8yoYnfqi3p2iGzPCR99q0BiX0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587467421017-5j47hjdhegbtvo8el5njrrena1ptinse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
